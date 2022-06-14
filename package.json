@@ -2,6 +2,7 @@
   "name": "node-mongodb",
   "version": "1.0.0",
   "main": "index.js",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
     "expres": "^0.0.5",
